@@ -1,10 +1,10 @@
 {
-  "name": "nodebb-theme-peace",
+  "name": "nodebb-theme-connecton-dark-basic",
   "version": "2.2.6",
   "nbbpm": {
     "compatibility": "^3.5.0"
   },
-  "description": "Peace theme for NodeBB",
+  "description": "커넥트ON 다크 베이직 테마 for NodeBB",
   "main": "lib/library.js",
   "repository": {
     "type": "git",
